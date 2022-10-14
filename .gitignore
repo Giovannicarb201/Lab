@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Lab_01/CharAt/build/
+/Lab_01/FirstAndLastInverted/build/
+/Lab_01/IndexOf/build/
+/Lab_01/InvertHalfString/build/
+/Lab_01/PrintMiddleChar/build/
+/Lab_01/Rectangle/build/
+/Lab_01/StringBuilder/build/
+/Lab_01/UpperCaseInitial/build/
+/Lab_02/Car/build/
+/Lab_02/FirstAndLastWord/build/
+/Lab_02/Infected/build/
+/Lab_02/InputChecker/build/
+/Lab_02/Locker/build/
+/Lab_02/SavingAccount/build/
+/Lab_02/Student/build/
+/Lab_02/Student/out/
+/Lab_02/Student/out/production/classes/
+/Lab_02/VendingMachine/build/
+/Lab_02/VendingMachine/out/
+/Lab_02/VendingMachine/out/production/classes/
+/Lab_02/VendingMachine/out/test/classes/
